@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "username": "said",
+          "email" : "s@gmail.com",
+          "password" : 1234,
+          "workout programs" : [],
+          "nutrition programs" : [],
+          "level" : 0,
+          "current exp" : 0
+        }
+      ]
+}
